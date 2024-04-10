@@ -144,10 +144,10 @@ Here's the filter panel to limit your search base on city, model, and vehicle ty
 
 [Interact with the dashboard here:](https://app.powerbi.com/groups/me/reports/367fb391-f9c7-4783-980f-b8e2a7f159f5/ReportSection?experience=power-bi)
 
-Thank you for your attention:
+### Thank you for your attention:
 
-__Lets connect!
-https://www.linkedin.com/in/afeez-akinleye/
+__Lets connect!_  
+https://www.linkedin.com/in/afeez-akinleye/  
 Tel:236-992-9019__
 
 
