@@ -3,7 +3,7 @@
 ![Vehicle_Power](Vehicle_power_banner.jpg)
 
 ## Introduction:
-UtUtilized advanced data analysis tools such as Excel, Power Query, and Power BI to conduct an in-depth examination of alternative power vehicles within the automotive sector. This involved constructing a comprehensive Power BI dashboard to visualize intricate details such as manufacturer data, model years, vehicle types, and electric range. Implemented Data Modeling techniques to enhance precision and accuracy, resulting in valuable insights for informed decision-making in the industry.
+Utilized advanced data analysis tools such as Excel, Power Query, and Power BI to conduct an in-depth examination of alternative power vehicles within the automotive sector. This involved constructing a comprehensive Power BI dashboard to visualize intricate details such as manufacturer data, model years, vehicle types, and electric range. Implemented Data Modeling techniques to enhance precision and accuracy, resulting in valuable insights for informed decision-making in the industry.
 
 ## About the Dataset:
 This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL). BEV sales during Q2 2023 grew over 50% YoY. One in every 10 cars sold during Q2 2023 was a pure battery electric vehicle (BEV). China remained the leader in global BEV sales followed by USA and Germany. BEV sales in the USA grew by almost 57% YoY, the highest among the top 3 EV markets
